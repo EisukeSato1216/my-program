@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 
-# 画像フォルダと出力フォルダのパスを指定（ユーザー入力）
+# 画像フォルダと出力フォルダのパスを指定
 response_function_image_folder = r"******"
 
 # フォルダ内の画像ファイル名を取得
